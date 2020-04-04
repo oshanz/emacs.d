@@ -1,16 +1,17 @@
 
 ;; ----- smex-history -----
 (
+ package-install
+ package-refresh-contents
  cd
  5x5
  arp
  dbx
  dig
- erc
- ert
 )
 
 ;; ----- smex-data -----
 (
- 
+ (package-refresh-contents . 1)
+ (package-install . 2)
 )
