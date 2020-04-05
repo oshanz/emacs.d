@@ -1,1 +1,1 @@
-("~/.emacs.d/")
+("~/panda/braveclojure/" "~/.emacs.d/")

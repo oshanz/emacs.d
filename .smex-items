@@ -13,5 +13,5 @@
 ;; ----- smex-data -----
 (
  (package-refresh-contents . 1)
- (package-install . 2)
+ (package-install . 3)
 )

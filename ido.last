@@ -1,0 +1,34 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/oshan/panda/braveclojure/clojure-noob/src/" . "clojure_noob/")
+ ("/home/oshan/panda/braveclojure/clojure-noob/" . "src/")
+ ("/home/oshan/panda/braveclojure/" . "clojure-noob/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/oshan/panda/braveclojure/clojure-noob/src/clojure_noob/"
+ "/home/oshan/panda/braveclojure/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "core.clj"
+ "README.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/oshan/panda/braveclojure/clojure-noob/src/clojure_noob/" (24199 26755 816374 720000) "core.clj" "./" "../")
+
+ ("/home/oshan/panda/braveclojure/clojure-noob/src/" (24199 26755 816374 720000) "./" "../" "clojure_noob/")
+
+ ("/home/oshan/panda/braveclojure/clojure-noob/" (24200 45780 898719 801000) "LICENSE" "target/" "README.md" "coverage/" "resources/" "./" "doc/" ".hgignore" "../" ".lein-repl-history" "project.clj" "src/" "test/" ".gitignore" "CHANGELOG.md")
+
+ ("/home/oshan/panda/braveclojure/" (24200 45822 809174 945000) ".git/" "README.md" "coverage/" "./" "clojure-noob/" "yy" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
